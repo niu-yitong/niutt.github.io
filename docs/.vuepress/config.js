@@ -36,6 +36,10 @@ module.exports = {
         lastUpdated: '上次更新',
         nav: [
           {
+            text: '有道笔记',
+            link: '/zh/standard/Notes.md'
+          },
+          {
             text: '快速搭建开发环境',
             link: '/zh/standard/Start.md'
           },
